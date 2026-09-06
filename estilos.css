@@ -1,0 +1,23 @@
+﻿estilos.css
+
+    body {
+    font-family: Arial, sans-serif;
+    background-color: #fff8f0;
+    color: #5a3e36;
+    text-align: center;
+    margin: 40px;
+    }
+
+    h1 {
+    color: #8b5e3c;
+    }
+
+    nav {
+    margin: 20px;
+    }
+
+    nav a {
+    margin: 10px;
+    text-decoration: none;
+    color: #8b5e3c;
+    }
